@@ -7,22 +7,26 @@
  * @source https://github.com/dotargz/zelk-plus
  * @invite hcUE7rueqR
  */
-/*         ▀▀█ █▀▀ █   █ █
-           ▄▀  █▀▀ █   █▀▄
-           ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀           */
+/*
+███████╗███████╗██╗░░░░░██╗░░██╗░░░░░░░
+╚════██║██╔════╝██║░░░░░██║░██╔╝░░██╗░░
+░░███╔═╝█████╗░░██║░░░░░█████═╝░██████╗
+██╔══╝░░██╔══╝░░██║░░░░░██╔═██╗░╚═██╔═╝
+███████╗███████╗███████╗██║░╚██╗░░╚═╝░░
+╚══════╝╚══════╝╚══════╝╚═╝░░╚═╝░░░░░░░*/
  /*--------------IMPORTS------------- */
 @import url(https://dotargz.github.io/zelk-plus/main.css);
 @import url(https://discord-custom-covers.github.io/usrbg/dist/usrbg.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
 /*--------------COLORS---------------*/
 /*------remove / and * to apply------*/
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/blue.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/green.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/gray.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/orange.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/purple.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/red.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/discord.css); */
+/* @import url(https://raw.githack.com/dotargz/zelk-plus/main/colors/blue.css); */
+/* @import url(https://raw.githack.com/dotargz/zelk-plus/main/colors/green.css); */
+/* @import url(https://raw.githack.com/dotargz/zelk-plus/main/colors/gray.css); */
+/* @import url(https://raw.githack.com/dotargz/zelk-plus/main/colors/orange.css); */
+/* @import url(https://raw.githack.com/dotargz/zelk-plus/main/colors/purple.css); */
+/* @import url(https://raw.githack.com/dotargz/zelk-plus/main/colors/red.css); */
+/* @import url(https://raw.githack.com/dotargz/zelk-plus/main/colors/discord.css); */
 /*-------------VARIABLES-------------*/
 :root {
   /* set to 'unset' to show */
