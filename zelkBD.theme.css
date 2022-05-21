@@ -170,3 +170,5 @@
 .root-8LYsGj[style*="--user-background"] .banner-1YaD3N {
   height: 240px;
 }
+/* New user panel fix by BlueSkye */
+.none-2-_0dP { background-color: var(--background-tertiary) !important; }
