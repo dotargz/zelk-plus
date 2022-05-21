@@ -24,6 +24,8 @@ Search for **Zelk** in the Themes tab
 for actual previews look [here](https://github.com/schnensch0/zelk/tree/main/preview)
 
 ### CREDITS
+Original theme by [schnensch0](https://github.com/schnensch0/zelk)
+
 Inter from [rsms.me/inter](https://rsms.me/inter/)
 
 [Settings Icons](https://github.com/CreArts-Community/Settings-Icons) for Powercord by CorellanStoma
