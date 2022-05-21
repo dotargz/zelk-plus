@@ -20,7 +20,7 @@ git clone https://github.com/schnensch0/zelk.git
 #### Goosemod
 Search for **Zelk** in the Themes tab
 
-![Mockup](https://raw.githubusercontent.com/schnensch0/zelk/main/preview/mockup.png)
+![Mockup](https://raw.githubusercontent.com/dotargz/zelk-plus/main/preview/mockup.png)
 for actual previews look [here](https://github.com/schnensch0/zelk/tree/main/preview)
 
 ### CREDITS
