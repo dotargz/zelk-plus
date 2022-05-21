@@ -681,7 +681,10 @@ svg.slider-32CRPX svg, .bd-switch-slider>svg {
   margin: 2px 8px;
   border-radius: var(--border-radius-1);
 }
-.body-1Ukv50, .activity-3v9l4T, .avatar-2Vndt_, .headerTop-2y3V6H, .headerTop-3GPUSF, .headerTop-2cWpdB, .activity-fViXj7, .body-2wLx-E, .topSection-13QKHs, .avatar-3QF_VA, .aboutMeSection---MkQa, .footer-3naVBw, .footer-1N3bR3, .bodyInnerWrapper-2bQs1k, .profileBannerPreview-3_l0Wd, .userPopout-2j1gM4, .profileBody-3QbfPe, .submenuContainer-3EVTeH, .none-2-_0dP {
+.body-1Ukv50, .activity-3v9l4T, .avatar-2Vndt_, .headerTop-2y3V6H, .headerTop-3GPUSF, .headerTop-2cWpdB, .activity-fViXj7, .body-2wLx-E, .topSection-13QKHs, .avatar-3QF_VA, .aboutMeSection---MkQa, .footer-3naVBw, .footer-1N3bR3, .bodyInnerWrapper-2bQs1k, .profileBannerPreview-3_l0Wd, .userPopout-2j1gM4, .profileBody-3QbfPe, .submenuContainer-3EVTeH {
+  background-color: var(--background-tertiary) !important;
+}
+.none-2-_0dP {
   background-color: var(--background-tertiary) !important;
 }
 .bodyInnerWrapper-2bQs1k {
