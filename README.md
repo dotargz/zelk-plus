@@ -18,7 +18,7 @@ git clone https://github.com/dotargz/zelk-plus.git
 [Download](https://betterdiscord.app/Download?id=300) and move the file into your themes folder
 
 #### Goosemod
-Search for **Zelk+** in the Themes tab
+Search for **Zelk Plus** in the Themes tab
 
 ![Mockup](https://raw.githubusercontent.com/dotargz/zelk-plus/main/preview/mockup-v2.png)
 for actual previews look [here](https://github.com/dotargz/zelk-plus/tree/main/preview)
